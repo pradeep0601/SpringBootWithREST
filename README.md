@@ -1,4 +1,4 @@
-# Spting Boot With REST Webservices Example Application
+# Spring Boot With REST Webservices Example Application
 
 A sample of Java+Maven+Spring Boot application that can be used as a starter for creating a REST webservice.  I hope it will help you.
 
